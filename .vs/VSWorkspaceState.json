@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataBinding",
+    "\\DataBinding\\src",
+    "\\DataBinding\\src\\app",
+    "\\DataBinding\\src\\app\\cockpit",
+    "\\DataBinding\\src\\app\\server-element",
+    "\\DataBinding\\src\\assets",
+    "\\DataBinding\\src\\environments"
+  ],
+  "SelectedNode": "\\DataBinding\\src\\app\\server-element\\server-element.component.ts",
+  "PreviewInSolutionExplorer": false
+}

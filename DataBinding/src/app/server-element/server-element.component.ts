@@ -10,7 +10,7 @@ export class ServerElementComponent implements OnInit {
   newServerName = '';
   newServerContent = '';
 
-  @Input() element: {type:string,name:string,content:string};
+  @Input('srvElement') element: {type:string,name:string,content:string};
   constructor() { }
 
   ngOnInit(): void {
